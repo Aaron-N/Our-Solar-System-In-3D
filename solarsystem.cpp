@@ -1,4 +1,3 @@
-//	Final Project --- CS 450/550 --- Fall Quarter 2021
 //
 //	This is a 3D model of our Solar System, including planet texture mapping,
 //		orbit paths and light emanating from the Sun. Planet sizes and orbit
