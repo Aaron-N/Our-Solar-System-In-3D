@@ -20,3 +20,5 @@ To run, download all files and open Sample.sln with Visual Studio, run Clean Sol
 then Build Sample, and then start the program by selecting Start Without Debugging.
 
 Screenshots are also available in this repository to view without running.
+
+To view OpenGL code, open solarsystem.cpp
