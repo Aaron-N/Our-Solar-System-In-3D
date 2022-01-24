@@ -1,0 +1,139 @@
+﻿  solarsystem.cpp
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(481,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(483,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(489,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(498,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(500,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(506,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(515,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(517,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(523,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(532,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(534,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(540,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(549,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(550,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(551,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(557,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(566,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(567,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(568,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(574,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(588,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(596,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(597,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(598,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(604,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(613,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(614,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(615,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(621,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1001,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1006,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1011,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1016,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1026,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1036,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1041,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1046,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1781,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1788,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1798,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1799,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1818,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1819,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1831,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1832,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1921,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1922,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1927,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1927,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1928,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1928,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1936,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1941,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1949,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1949,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1952,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1952,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1955,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1955,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1958,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1958,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1968,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1968,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1968,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1975,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1975,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1975,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1977,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1977,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1977,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1979,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1979,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1979,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1981,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1981,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1981,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1985,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1985,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1985,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1987,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1987,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1987,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1989,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1989,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1989,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1991,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1991,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1991,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1996,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1996,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1996,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1998,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1998,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(1998,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2000,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2000,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2000,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2002,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2002,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2002,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2006,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2006,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2006,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2008,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2008,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2008,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2010,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2010,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2010,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2012,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2012,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2012,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2017,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2017,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2017,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2019,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2019,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2019,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2021,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2021,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2021,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2023,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2023,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2023,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2027,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2027,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2027,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2029,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2029,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2029,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2031,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2031,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2031,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2033,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2033,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Baphomet\Desktop\SampleFreeGlut2019\solarsystem.cpp(2033,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+solarsystem.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Baphomet\Desktop\SampleFreeGlut2019\Debug\Sample.exe
