@@ -9,7 +9,7 @@ looked the best
 • Scaled the orbital periods of the planets and kept them proportional so the outer 
 planets movement can be seen
 • Used NASA textures for the textures of the Sun and all the planets, applied to 
-instances of OsuSphere()
+instances of spheres
 • Displayed the orbit path lines of each planet
 • Created a point light at the sun that illuminates the planets, and also added some 
 ambient light overall
